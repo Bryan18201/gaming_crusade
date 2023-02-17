@@ -1,4 +1,4 @@
-# Portada de la web
+# Web de informaciones de Videojuegos
 
 # Tecnologías Utilizadas:
 
@@ -7,6 +7,8 @@
 -CSS
 
 -JavaScript
+
+# Portada de la web
 
 ![portada](https://i.imgur.com/ulH4w0w.png)
 
